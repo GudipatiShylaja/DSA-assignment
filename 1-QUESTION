@@ -1,0 +1,6 @@
+WRITE APROGRAM TO FIND ALL PAIRS OF AN INTEGER ARRAY WHOSE SUM IS EQUAL TO A GIVEN NUMBER?
+function findPairsWithSum(arr,targetSum)
+const pairs=[];
+const numSet=new Set();
+for(let i=0;i<arr.length;i++)
+const complement=targetSum=
